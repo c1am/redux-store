@@ -35,7 +35,7 @@ Finally, the user can check out by going to their shopping cart, as shown in the
 
 ## Built With
 - Javascript
-- MySQL
+- Redux
 
 
 ## Authors
