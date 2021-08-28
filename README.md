@@ -22,6 +22,7 @@ Clone this repository.
 
 - [Repository Link](https://github.com/c1am/redux-store) 
 - SSH Clone Link: `git@github.com:c1am/redux-store.git`
+- [Heroku Deployment Link](https://cherrys-redux-store.herokuapp.com)
 
 Install `node.js`, open the terminal and run `npm i`, then `npm i [package]` to install each of the packages below, replacing `[package]` with each name:
 - graphql
